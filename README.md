@@ -5,3 +5,7 @@ Add your credentials.json file with your google forms API credentials and the be
 "redirect_uris": ["http://localhost:3000/oauth2callback"]
 ```
 
+**Run the below command**
+```
+node script.js
+```
